@@ -1,2 +1,3 @@
 base
 run2 pr2
+ctl pr2
